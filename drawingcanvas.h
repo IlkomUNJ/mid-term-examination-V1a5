@@ -10,6 +10,7 @@
 #include <iomanip>
 #include <QPixmap>
 #include "CustomMatrix.h"
+#include <vector> // Diperlukan untuk std::vector<CustomMatrix>
 
 using namespace std;
 using Array3x3 = std::array<std::array<bool, 3>, 3>;
@@ -42,5 +43,9 @@ private:
     QVector<QPoint> m_points;
 
     bool isPaintLinesClicked = false;
+
+    // NEW: Untuk Sasaran 3
+    QVector<QPoint> m_segment_candidates;
+    std::vector<CustomMatrix> m_segment_filters;
 };
 #endif // DRAWINGCANVAS_H
