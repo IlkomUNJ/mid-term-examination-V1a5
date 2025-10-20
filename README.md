@@ -3,3 +3,4 @@ Repository for final lesson before mid term of computer graphic course
 
 Name    : Muhammad Vlas (1313623039)
 Class   : Ilmu Komputer B
+link ai : https://gemini.google.com/share/5b81a142185b

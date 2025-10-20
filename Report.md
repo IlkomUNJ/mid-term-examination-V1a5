@@ -153,3 +153,5 @@ Found unique non-empty window at (232, 95):
 
 3x3 = Cukup untuk menangkap arah (diagonal, vertikal, horizontal)
 5x5 = Terlalu besar, menangkap informasi yang tidak perlu.
+
+https://gemini.google.com/share/5b81a142185b
